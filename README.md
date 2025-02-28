@@ -6,11 +6,13 @@ Data Manipulation:
 
 Processed and cleaned raw revenue data to ensure accuracy and consistency.
 Segmented data by critical factors such as service type, region, and occupancy rates to enable detailed analysis.
+
 Dashboard Development:
 
 Built an interactive Power BI dashboard to visualize revenue insights.
 Designed user-friendly visuals such as revenue breakdowns by service type, regional performance, and occupancy rates.
 Included features like slicers and dynamic filters to allow users to explore specific data points.
+
 Insights and Decision Support:
 
 Highlighted key trends and patterns across customer segments, providing a comprehensive view of revenue performance.
